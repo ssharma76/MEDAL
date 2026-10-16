@@ -1,0 +1,6 @@
+streamlit
+pandas
+sqlalchemy
+requests
+reportlab
+openpyxl
