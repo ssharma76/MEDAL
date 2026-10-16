@@ -4,3 +4,4 @@ sqlalchemy
 requests
 reportlab
 openpyxl
+opencv-python-headless
